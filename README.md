@@ -1,4 +1,4 @@
-# NIR-ISL-2021
+# NIR-ISL 2021
 
 The **2021 NIR** **I**ris Challenge Evaluation in Non-cooperative Environments: **S**egmentation and **L**ocalization ([NIR-ISL 2021](https://sites.google.com/view/nir-isl2021/home)) was organised as part of the 2021 International Joint Conference on Biometrics ([IJCB 2021](http://ijcb2021.iapr-tc4.org/)). The challenge aimed at benchmarking the methods of iris segmentation and localization for NIR iris images from Asian and African people captured in non-cooperative environments. 
 
