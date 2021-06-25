@@ -12,6 +12,22 @@ The **2021 NIR** **I**ris Challenge Evaluation in Non-cooperative Environments: 
 - CASIA-Iris-Africa [[Google Drive]](https://drive.google.com/file/d/15HgBvc1JE29wy-NUIOYrcnctF6gZRtE1/view?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1Bvm0aIHfv-tabbyJuNN__w)(fpmu)
 
  Please send the email to wangcaiyong@bucea.edu.cn for requesting the password of files.
+ 
+## Citation
+
+If you use our datasets for your research, please cite our papers.
+
+```
+@article{wang2021ijcbiris,
+  title={NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization}, 
+  author={Wang, Caiyong and Wang, Yunlong and Zhang Kunbo and Muhammad, Jawad and Lu, Tianhao and Zhang, Qi and Tian, Qichuan and He, Zhaofeng and Sun, Zhenan, et al.},
+  journal={2021 IEEE International Joint Conference on Biometrics (IJCB)}, 
+  year={2021},
+  pages={1-10},
+  publisher={IEEE}
+}
+```
+Anyone is permitted to use, distribute and change this program for any non-commercial usage. However each of such usage and/or publication must include above citation of this paper. For any commercial usage, please send an email to wangcaiyong@bucea.edu.cn or caiyong.wang@cripac.ia.ac.cn. 
 
 ## Evaluation
 
