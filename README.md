@@ -18,7 +18,7 @@ The **2021 NIR** **I**ris Challenge Evaluation in Non-cooperative Environments: 
 If you use our datasets for your research, please cite our papers.
 
 ```
-@article{wang2021ijcbiris,
+@inproceedings{wang2021ijcbiris,
   title={NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization}, 
   author={Wang, Caiyong and Wang, Yunlong and Zhang Kunbo and Muhammad, Jawad and Lu, Tianhao and Zhang, Qi and Tian, Qichuan and He, Zhaofeng and Sun, Zhenan, et al.},
   journal={2021 IEEE International Joint Conference on Biometrics (IJCB)}, 
