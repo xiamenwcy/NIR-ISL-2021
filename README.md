@@ -49,7 +49,7 @@ The top-3 winning solutions of NIR-ISL 2021 are:
 
 **Congratulations to them!**
 
-More details can be found in the future IJCB 2021 summary paper.  
+More details can be found in the [IJCB 2021 summary paper](https://ieeexplore.ieee.org/document/9484336).  
 
 
 ## Questions
