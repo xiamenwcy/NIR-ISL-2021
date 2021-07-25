@@ -18,13 +18,13 @@ The **2021 NIR** **I**ris Challenge Evaluation in Non-cooperative Environments: 
 If you use our datasets for your research, please cite our papers.
 
 ```
-@inproceedings{wang2021ijcbiris,
-  title={NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization}, 
-  author={Wang, Caiyong and Wang, Yunlong and Zhang Kunbo and Muhammad, Jawad and Lu, Tianhao and Zhang, Qi and Tian, Qichuan and He, Zhaofeng and Sun, Zhenan, et al.},
-  journal={2021 IEEE International Joint Conference on Biometrics (IJCB)}, 
+@inproceedings{wang2021nir,
+  title={NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization},
+  author={Wang, Caiyong and Wang, Yunlong and Zhang, Kunbo and Muhammad, Jawad and Lu, Tianhao and Zhang, Qi and Tian, Qichuan and He, Zhaofeng and Sun, Zhenan and others},
+  booktitle={2021 IEEE International Joint Conference on Biometrics (IJCB)},
+  pages={1--10},
   year={2021},
-  pages={1-10},
-  publisher={IEEE}
+  organization={IEEE}
 }
 ```
 Anyone is permitted to use, distribute and change this program for any non-commercial usage. However each of such usage and/or publication must include above citation of this paper. For any commercial usage, please send an email to wangcaiyong@bucea.edu.cn or caiyong.wang@cripac.ia.ac.cn. 
