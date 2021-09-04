@@ -39,17 +39,17 @@ Please refer to [https://github.com/xiamenwcy/IrisParseNet](https://github.com/x
 The top-3 winning solutions of NIR-ISL 2021 are:
 
 - 1st place: Lao Yang Sprint Team (Yiwen Zhang, Tianbao Liu, and Wei Yang, from School of Biomedical Engineering, Southern Medical University)
-  [[Code and Models]](https://github.com/whisney/NIR-ISL2021-Transfer-learning)  
+  [[Code and Models]](https://github.com/whisney/NIR-ISL2021-Transfer-learning) [[Document]](https://drive.google.com/file/d/1YxpIuEh1eZ6tWmSwHdeqR6xlwRhs74hN/view?usp=sharing)  [[Video Presentation]](https://www.youtube.com/watch?v=BS9YSDqtwhs)
 
 - 2nd place: SUEP-Pixsur (Dongliang Wu, Yingfeng Liu, Ruiye Zhou, and Huihai Wu, from Shanghai University of Electric Power)
-  [[Code and Models]](https://github.com/sweezin/PI-DECODER)  
+  [[Code and Models]](https://github.com/sweezin/PI-DECODER) [[Document]](https://drive.google.com/file/d/1600gbDyiYXSmS6JLpCH3FkwnYbUjQoIR/view?usp=sharing)  [[Video Presentation]](https://www.youtube.com/watch?v=Wc7kdVJP-Ik)  
 
 - 3rd place: EyeCool (Hao Zhang, Junbao Wang, Jiayi Wang, and Wantong Xiong, from College of Science, Northeastern University)
-  [[Code and Models]](https://github.com/neu-eyecool/NIR-ISL2021)  
+  [[Code and Models]](https://github.com/neu-eyecool/NIR-ISL2021) [[Document]](https://drive.google.com/file/d/1BSGZLEKdrDSi_GngMTew6cKVAgPwrDqh/view?usp=sharing)  [[Video Presentation]](https://www.youtube.com/watch?v=BqLlScinwGg)    
 
 **Congratulations to them!**
 
-More details can be found in the [IJCB 2021 summary paper](https://ieeexplore.ieee.org/document/9484336).  
+More details can be found in the [IJCB 2021 summary paper](https://ieeexplore.ieee.org/document/9484336) and [Video Presentation](https://www.youtube.com/watch?v=PUJsCh3StNM).  
 
 
 ## Questions
